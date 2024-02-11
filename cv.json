@@ -1,0 +1,239 @@
+{
+  "basics": {
+    "name": "Joseph Ospina Tafur",
+    "label": "Full Stack Javascript Developer con más de 10 años de experiencia en el desarrollo de software",
+    "image": "/me.webp",
+    "email": "josh.999126@gmail.com",
+    "phone": "+51 912004143",
+    "url": "https://joshospina.cv.dev",
+    "summary": "Fullstack Javascript Developer con mas de 10 años de experiencia en el desarrollo web moderno. Actualmente enfocado en promover el uso de nuevas tecnologias.",
+    "location": {
+      "address": "Av Alfredo Mendiola 7715",
+      "postalCode": "",
+      "city": "Los Olivos",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "joshdev1205",
+        "url": "https://www.linkedin.com/in/joshdev1205/"
+      },
+      {
+        "network": "X",
+        "username": "josh_dev1205",
+        "url": "https://x.com/Josh_Dev1205"
+      },
+      {
+        "network": "GitHub",
+        "username": "joshdev1205",
+        "url": "https://github.com/JoshDev1205"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Visma Latam",
+      "position": "Senior Frontend Developer",
+      "startDate": "2022-09-01",
+      "endDate": null,
+      "summary": "Partícipe en la definición del plan de migración a la V3 de Vuejs además se mejoraron la experiencia de desarrollo implementando herramientas de tipos. También se integró Github actions para el proceso de despliegue con Aws Amplify",
+      "stacks": ["Vuejs", "TailwindCSS", "Storybook", "Github Actions", "Docker", "AWS Amplify"],
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "PedidosYa",
+      "position": "Frontend Engineer L4",
+      "startDate": "2021-09-01",
+      "endDate": "2022-08-31",
+      "summary": "Desarrollé nuevas funcionalidades para la web app para aumentar el crecimiento de usuarios en la plataforma, además se integró toda la sección de Growth App dentro de la arquitectura de SingleSpa",
+      "stacks": [
+        "Reactjs",
+        "TailwindCSS",
+        "Storybook",
+        "Cloudinary",
+        "Docker",
+        "Express",
+        "Node",
+        "Single-SPA"
+      ],
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Zetech - Visma Latam",
+      "position": "Senior Vue Frontend Developer",
+      "startDate": "2019-04-01",
+      "endDate": "2021-008-31",
+      "summary": "Lideré el equipo inicial de frontend en Perú y se desarrolló nuevas características para las diferentes web apps de la empresa, adicionalmente se mejoró el desarrollo en equipo implementando las mejores prácticas para Vuejs.",
+      "stacks": ["Vuejs", "TailwindCSS", "Storybook", "Bitbucket Deployments"],
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Privada Cesar Vallejo",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente", "Git"]
+    },
+    {
+      "name": "Nuxt.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Vue Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Getting started with Graphql Yoga",
+      "isActive": true,
+      "description": "Tutorial de como empezar a trabajar con Graphql Yoga",
+      "highlights": ["Graphql Yoga"],
+      "url": "https://www.instagram.com/p/Ct7l2v0LmSC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "github": "https://github.com/JoshDev1205/graphql-yoga"
+    },
+    {
+      "name": "Getting started with Vue 3 and Firebase",
+      "isActive": true,
+      "description": "Tutorial de como empezar a trabajar con Vue 3 y Firebase",
+      "highlights": ["Vuejs 3", "Firebase Realtime Database"],
+      "url": "https://github.com/JoshDev1205/vue3-firebase-database-realtime",
+      "github": "https://github.com/JoshDev1205/vue3-firebase-database-realtime"
+    },
+    {
+      "name": "Functional CSS - Talk",
+      "isActive": true,
+      "description": "Charla acerca de CSS Funcional",
+      "highlights": ["Charla", "Functional CCS", "TailwindCSS"],
+      "url": "https://functional-css.vercel.app"
+    },
+    {
+      "name": "Yoga + Prisma + Graphql - Talk",
+      "isActive": true,
+      "description": "Charla acerca de Yoga, Prisma y Graphql",
+      "highlights": ["Charla", "Yoga", "Graphql", "Prisma"],
+      "url": "https://youtu.be/rL3h2wlrLmg?t=6523",
+      "github": "https://github.com/JoshDev1205/limajs-yoga-prisma-graphql"
+    },
+    {
+      "name": "Getting started with Bun + Prisma + Elysia",
+      "isActive": true,
+      "description": "Tutorial de como empezar a trabajar con Bun, Prisma y Elysia",
+      "highlights": ["Bun", "Elysia", "Prisma"],
+      "url": "https://github.com/JoshDev1205/imbd-api",
+      "github": "https://github.com/JoshDev1205/imbd-api"
+    }
+  ]
+}
