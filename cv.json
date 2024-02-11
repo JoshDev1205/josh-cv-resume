@@ -36,6 +36,7 @@
     {
       "name": "Visma Latam",
       "position": "Senior Frontend Developer",
+      "url": "",
       "startDate": "2022-09-01",
       "endDate": null,
       "summary": "Partícipe en la definición del plan de migración a la V3 de Vuejs además se mejoraron la experiencia de desarrollo implementando herramientas de tipos. También se integró Github actions para el proceso de despliegue con Aws Amplify",
@@ -45,6 +46,7 @@
     {
       "name": "PedidosYa",
       "position": "Frontend Engineer L4",
+      "url": "",
       "startDate": "2021-09-01",
       "endDate": "2022-08-31",
       "summary": "Desarrollé nuevas funcionalidades para la web app para aumentar el crecimiento de usuarios en la plataforma, además se integró toda la sección de Growth App dentro de la arquitectura de SingleSpa",
@@ -63,6 +65,7 @@
     {
       "name": "Zetech - Visma Latam",
       "position": "Senior Vue Frontend Developer",
+      "url": "",
       "startDate": "2019-04-01",
       "endDate": "2021-008-31",
       "summary": "Lideré el equipo inicial de frontend en Perú y se desarrolló nuevas características para las diferentes web apps de la empresa, adicionalmente se mejoró el desarrollo en equipo implementando las mejores prácticas para Vuejs.",
